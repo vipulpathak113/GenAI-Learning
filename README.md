@@ -18,7 +18,7 @@ Prompt engineering is a critical aspect of working with language models (LMs), s
 - Inference: The process of generating text based on the prompt.
 - Completion: The output text produced by the model.
 
----
+-----
 
 
 **Context Window:**
