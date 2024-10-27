@@ -7,6 +7,10 @@ Generative AI is a type of AI that can create new content, such as text, images,
 
 ---
 
+**Generative AI Project Lifecycle:**
+
+![alt text](image-4.png)
+
 **<u>Key Concepts in Language Model Interaction:</u>**
 - **Prompt:** The input text provided to the model.
 - **Inference:** The process of generating text based on the prompt.
@@ -59,3 +63,9 @@ The Transformer architecture consists of an encoder and a decoder, each of which
 The Transformer model also uses residual connections and layer normalization to facilitate training and prevent overfitting. In addition, the authors introduce a positional encoding scheme that encodes the position of each token in the input sequence, enabling the model to capture the order of the sequence without the need for recurrent or convolutional operations.
 
 ![alt text](image.png)
+
+----
+
+**LLM Parameters:**
+
+![alt text](image-3.png)
