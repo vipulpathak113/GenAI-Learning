@@ -64,7 +64,7 @@ The Transformer model also uses residual connections and layer normalization to 
 
 ![alt text](image.png)
 
-----
+---
 
 **LLM Parameters:**
 
