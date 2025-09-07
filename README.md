@@ -108,3 +108,21 @@ The Transformer model also uses residual connections and layer normalization to 
 ![alt text](image.png)
 
 ---
+
+here’s the plan for the final single-file README.md:
+
+Deep textbook-style coverage of Generative AI.
+
+Includes What / Why / How / When / Examples / Code / Math intuition for each concept.
+
+Mermaid diagrams for architecture and workflows.
+
+Covers all major GenAI areas: Tokenization, Embeddings, Transformers, Attention, LLMs, Fine-tuning, RAG, GANs, VAEs, Diffusion, Applications, Challenges, Ethics, Future.
+
+High-level equations (no full proofs, just key formulas + intuition).
+
+Hands-on examples in PyTorch, Hugging Face, OpenAI API.
+
+References to research papers, blogs, docs.
+
+At the end → “Interview Prep” section with tricky Q&A.
