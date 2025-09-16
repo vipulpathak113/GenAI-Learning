@@ -1,6 +1,5 @@
 # Generative AI
 
-
 Generative AI is a type of AI that can create new content, such as text, images, music, audio, and videos. It's powered by large AI models, called foundation models, that can perform a variety of tasks, including summarization, Q&A, and classification.
 
 ---
